@@ -1,16 +1,13 @@
 {
   "name": "aw-watcher-atom",
   "main": "./lib/aw-watcher-atom",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
-  ],
-
-  "repository": "https://github.com/atom/aw-watcher-atom",
+  "version": "0.1.0",
+  "description": "This package allows the open source tracking tool ActivityWatch to keep track of the projects and coding languages you use in Atom.",
+  "keywords": [],
+  "repository": "https://github.com/NicoWeio/aw-watcher-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
