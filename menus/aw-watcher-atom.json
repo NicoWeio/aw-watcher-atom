@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle aw-watcher-atom",
+        "command": "aw-watcher-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "aw-watcher-atom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "aw-watcher-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
