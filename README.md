@@ -1,3 +1,7 @@
+> [!WARNING]
+> Since the [sunset of Atom](https://github.blog/2022-06-08-sunsetting-atom/), this repository has not been maintained. If there is sustained interest, I might still merge PRs.
+
+
 # aw-watcher-atom
 
 This extension allows the open source tracking tool [ActivityWatch](http://activitywatch.net/) to keep track of the projects and coding languages you use in Atom.
